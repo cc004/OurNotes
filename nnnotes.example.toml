@@ -1,0 +1,33 @@
+# Copy to nnnotes.toml. Paths are relative to this file.
+# The APK browser and player/crikey commands work without the empty values.
+[bundle]
+key = ""
+nonce_seed = ""
+
+[master]
+key = ""
+iv = ""
+
+[catalog]
+region = "jp"
+language = "ja"
+
+[servers.jp]
+provider = "jp"
+name = "JP"
+languages = ["ja"]
+# Obtain these from your game client before using online commands.
+api = ""
+cdn = ""
+apk = "work/apk/jp"
+master = "work/master/jp"
+
+[paths]
+apk = "work/apk/jp"
+cache = "cache"
+master = "work/master/jp"
+# Optional: required only by the relevant audio/web export commands.
+ffmpeg = ""
+vgmstream = ""
+node = ""
+player = ""

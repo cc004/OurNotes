@@ -1,0 +1,14 @@
+{
+  "max_accounts": 3,
+  "initial_data_group": "",
+  "finish_tutorial": true,
+  "login_bonus": true,
+  "claim_presents": true,
+  "bind_transfer": true,
+  "draws": [
+    {"gacha_id": 1, "product_id": 3, "times": 1}
+  ],
+  "target_card_ids": [],
+  "stop_on_match": true,
+  "account_delay_seconds": 3
+}

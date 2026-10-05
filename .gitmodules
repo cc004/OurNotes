@@ -1,0 +1,6 @@
+[submodule "nnnotes"]
+	path = nnnotes
+	url = https://github.com/MetaSekaiLab/nnnotes.git
+[submodule "dumper"]
+	path = dumper
+	url = https://github.com/MetaSekaiLab/Il2CppDumper-0x66.git
